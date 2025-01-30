@@ -1,4 +1,6 @@
 # GITHUB-Toturial
+Link to Amandeep video = https://www.loom.com/share/folder/1f60b6729ce94b4ba5cd44a80cc13572
+Link to Tomoko VIdeo : 
 what is Version Control System: 
 is a type of tools that helps software development teams manage and track changes to theri source code over time. 
 
