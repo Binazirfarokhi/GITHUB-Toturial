@@ -16,4 +16,12 @@ The most popular one is GIT.
 Git is an open source project available to dl. 
 GIT BASIC CONCEPTS: 
 Repository: This is the location that all codes are stored. 
-Branch : 
+Branch : every dev should have their own branch 
+create a new branch with CLI ; git checkout -b dev-binazir
+then git rebase main : means there is no changes in the main that you need to bring, you have the exact copy of the branch
+you will get all the changes reflected on your branch once you do  : git rebase main 
+now stage all the changes you made on your branch : git add .     it will add changes 
+git commit -m "feature" 
+now add all changes to the github : git puch origin dev-binazir 
+now all changes added to github 
+now you need to create a pull req to add the changes form your branch to main branch
