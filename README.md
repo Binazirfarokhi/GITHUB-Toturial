@@ -24,4 +24,4 @@ now stage all the changes you made on your branch : git add .     it will add ch
 git commit -m "feature" 
 now add all changes to the github : git puch origin dev-binazir 
 now all changes added to github 
-now you need to create a pull req to add the changes form your branch to main branch
+now you need to create a pull req to add the changes form your branch to main branch.
