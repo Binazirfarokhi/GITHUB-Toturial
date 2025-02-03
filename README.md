@@ -25,3 +25,7 @@ git commit -m "feature"
 now add all changes to the github : git puch origin dev-binazir 
 now all changes added to github 
 now you need to create a pull req to add the changes form your branch to main branch.
+
+=========
+we call the main branch : stable version of our code in the project
+we need another staging or testing branch called development branch to have a testing mode in terms of creating our project. 
