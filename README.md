@@ -29,3 +29,23 @@ now you need to create a pull req to add the changes form your branch to main br
 =========
 we call the main branch : stable version of our code in the project
 we need another staging or testing branch called development branch to have a testing mode in terms of creating our project. 
+===========================
+most important git commands 
+git init # initialize directory as git repo
+git clone url ( from github ) 
+git status 
+git branch : show which branch you are working on 
+git log : show your commit history 
+git add .   : stage all your changes , if you want to commit only one wtrite that only -A 
+git commit -m "" 
+git pull origin main 
+git push origin main 
+git branch 
+git merge develop : will merge develop branch into current one 
+git checkout : switch from current to this branch your are working on it 
+git branch -m Binazir : will create a new branch and rename it ot this 
+git branch -d Biaznr : delete the current page. 
+git rm file-name :  remove file from project and stage remove 
+git stash : save modified and staged changes
+git rebase main : bring the last update of the main branch. 
+
